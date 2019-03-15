@@ -13,9 +13,9 @@
 	<strong>
 		<a href="http://arp.systems/">Website</a>
 		•
-		<a href="http://arp.systems/docs">Docs</a>
+		<a href="http://music.arp.systems/docs">Music Streaming Online with chat</a>
 		•
-		<a href="https://demo.arp.systems/">Demo</a>
+		<a href="https://irc.arp.systems/">Demo</a>
 	</strong>
 </p>
 <p align="center">
