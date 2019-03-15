@@ -84,7 +84,7 @@ arpsystems --help
 
 ### Running from source
 
-The following commands install and run the development version of The Lounge:
+The following commands install and run the development version of aRp Systems:
 
 ```sh
 git clone https://github.com/arpsystems/arpsystems.git
