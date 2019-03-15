@@ -19,8 +19,8 @@
 	</strong>
 </p>
 <p align="center">
-	<a href="https://demo.arp.systems/"><img
-		alt="#arpsystems IRC channel on freenode"
+	<a href="https://irc.arp.systems/"><img
+		alt="#music IRC channel my Network"
 		src="https://img.shields.io/badge/freenode-%23arpsystems-415364.svg?colorA=ff9e18&style=flat-square"></a>
 	<br>
 	<a href="https://yarn.pm/arpsystems"><img
@@ -49,13 +49,13 @@
 * **Responsive interface.** The client works smoothly on every desktop, smartphone and tablet.
 * **Synchronized experience.** Always resume where you left off no matter what device.
 
-To learn more about configuration, usage and features of The Lounge, take a look at [the website](https://arp.systems).
+To learn more about configuration, usage and features of aRp Systems, take a look at [the website](https://arp.systems).
 
-The Lounge is the official and community-managed fork of [Shout](https://github.com/erming/shout), by [Mattias Erming](https://github.com/erming).
+aRp Systems is the official and community-managed fork of [Shout](https://github.com/erming/shout), by [Mattias Erming](https://github.com/erming).
 
 ## Installation and usage
 
-The Lounge requires [Node.js](https://nodejs.org/) v6 or more recent.
+aRp systems requires [Node.js](https://nodejs.org/) v6 or more recent.
 [Yarn package manager](https://yarnpkg.com/) is also recommended.  
 If you want to install with npm, `--unsafe-perm` is required for a correct install.
 
@@ -68,7 +68,7 @@ Run this in a terminal to install (or upgrade) the latest stable release from
 yarn global add arpsystems
 ```
 
-If you already have The Lounge installed globally, use the following command to update it:
+If you already have aRp systems installed globally, use the following command to update it:
 
 ```sh
 yarn global upgrade arpsystems
