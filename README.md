@@ -6,14 +6,14 @@
 </h1>
 
 <h3 align="center">
-	Modern web IRC client designed for self-hosting
+	Webchat Browser aRp Systems http://irc.arp.systems
 </h3>
 
 <p align="center">
 	<strong>
-		<a href="https://arp.systems/">Website</a>
+		<a href="http://arp.systems/">Website</a>
 		•
-		<a href="https://arp.systems/docs">Docs</a>
+		<a href="http://arp.systems/docs">Docs</a>
 		•
 		<a href="https://demo.arp.systems/">Demo</a>
 	</strong>
@@ -35,10 +35,6 @@
 	<a href="https://npm-stat.com/charts.html?package=arpsystems&from=2016-02-12"><img
 		alt="Total downloads on npm"
 		src="https://img.shields.io/npm/dt/arpsystems.svg?colorB=007dc7&style=flat-square&maxAge=3600"></a>
-</p>
-
-<p align="center">
-	<img src="https://raw.githubusercontent.com/arpsystems/arpsystems.github.io/master/img/arpsystems-screenshot.png" width="550">
 </p>
 
 ## Overview
@@ -80,7 +76,7 @@ When installation is complete, run:
 arpsystems start
 ```
 
-For more information, read the [usage documentation](https://arp.systems/docs/usage) or run:
+For more information, read the [usage documentation](http://arp.systems/docs/usage) or run:
 
 ```sh
 arpsystems --help
